@@ -1,0 +1,6 @@
+SET key 90
+
+DEL key
+
+SET key 700
+
